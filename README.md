@@ -14,7 +14,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
 - name: Install yesqa from PyPI
-  uses: install-pinned/yesqa@ffffffffffffffffffffffffffffffffffffffff
+  uses: install-pinned/yesqa@67d0a89dc5d791a60e3d173595ffaed927ab446f  # 1.4.0
 ```
 
 ## Alternatives
