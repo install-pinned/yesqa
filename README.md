@@ -14,7 +14,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
 - name: Install yesqa from PyPI
-  uses: install-pinned/yesqa@28304a8e780ef85b547ac705f2b030d25c3fe724  # 1.4.0
+  uses: install-pinned/yesqa@ffffffffffffffffffffffffffffffffffffffff
 ```
 
 ## Alternatives
@@ -23,5 +23,4 @@ This action is a relatively simple wrapper around the fantastic [pip-tools](http
 
 ## More Details
 
-See the [main repository](https://github.com/install-pinned/overview) for details.
-
+See the [@install-pinned README](https://github.com/install-pinned) for details.
