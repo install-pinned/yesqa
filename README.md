@@ -13,8 +13,8 @@ This action installs a pinned version of **yesqa** and all its dependencies,    
 In your GitHub Actions workflow, use this action like so:
 
 ```yaml
-- name: Install yesqa from PyPI
-  uses: install-pinned/yesqa@7ca510c22cdaf462a65061f144429bdb5d128c68  # 1.4.0
+      - name: Install yesqa from PyPI
+        uses: install-pinned/yesqa@7ca510c22cdaf462a65061f144429bdb5d128c68  # 1.4.0
 ```
 
 ## Alternatives
