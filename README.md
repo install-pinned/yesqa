@@ -20,7 +20,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
       - name: Install yesqa from PyPI
-        uses: install-pinned/yesqa@4896f663e9c294fddfbf5f4e4fc4f9b1a4556658  # 1.4.0
+        uses: install-pinned/yesqa@f83592152a492a18c0effea2bf1d7d916799886a  # 1.5.0
 ```
 
 You can [set up Dependabot](https://docs.github.com/en/code-security/dependabot/working-with-dependabot/keeping-your-actions-up-to-date-with-dependabot#example-dependabotyml-file-for-github-actions)
